@@ -6,7 +6,7 @@ const Social = () => {
       <a
         href="https://www.instagram.com/subhajitmajumder660/profilecard/?igsh=ejEwcjAyZGV6bGcy"
         className="home__social-icon"
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <i class="uil uil-instagram"></i>
       </a>
@@ -15,14 +15,14 @@ const Social = () => {
 subhajit-majumdar-352967325
 "
         className="home__social-icon"
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <i class="uil uil-linkedin"></i>
       </a>
       <a
         href="https://github.com/Subhajit143"
         className="home__social-icon"
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <i class="uil uil-github-alt"></i>
       </a>
