@@ -60,7 +60,7 @@ const Contact = () => {
               <h3 className="contact__card-title">Messenger</h3>
               <span className="contact__card-data">subhajit_660{" "}</span>
 
-              <a href="#" className="contact__button">
+              <a href="https://www.instagram.com/subhajitmajumder660/profilecard/?igsh=ejEwcjAyZGV6bGcy" className="contact__button">
               {" "}Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>

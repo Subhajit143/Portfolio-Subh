@@ -27,7 +27,7 @@ const Footer = () => {
         </ul>
 
         <div className="footer__social">
-          <a href="#" className="footer__social-link" target="_blank">
+          <a href="#home" className="footer__social-link" target="_blank">
             <i class="bx bxl-facebook"></i>
           </a>
           <a
