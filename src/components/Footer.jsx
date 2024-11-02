@@ -28,7 +28,7 @@ const Footer = () => {
 
         <div className="footer__social">
           <a href="https://www.instagram.com/subhajitmajumder660/profilecard/?igsh=ejEwcjAyZGV6bGcy"
-           className="footer__social-link" target="_blank">
+           className="footer__social-link" target="_blank" rel="noreferrer">
             <i class="bx bxl-facebook"></i>
           </a>
           <a
@@ -36,7 +36,7 @@ const Footer = () => {
 subhajit-majumdar-352967325
 "
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i class="bx bxl-linkedin"></i>
           </a>
@@ -45,7 +45,7 @@ subhajit-majumdar-352967325
 subhajit-majumdar-352967325
 "
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i class="bx bxl-twitter"></i>
           </a>
