@@ -11,8 +11,7 @@ const Social = () => {
         <i class="uil uil-instagram"></i>
       </a>
       <a
-        href="www.linkedin.com/in/
-subhajit-majumdar-352967325
+        href="https://www.linkedin.com/in/subhajit-majumdar-352967325/
 "
         className="home__social-icon"
         target="_blank" rel="noreferrer"
