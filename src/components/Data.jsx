@@ -5,7 +5,7 @@ const Data = () => {
     <div className="home__data">
       <h1 className="home__title">
         Subhajit 
-        <svg
+          <svg
           width="36"
           height="36"
           viewBox="0 0 48 48"
@@ -73,8 +73,7 @@ const Data = () => {
         </div>
       </div>
       <p className="home__description">
-        I am a creative Web Developer and a Designer based in India, and I am
-        very Passionate and dedicated to my work.
+      I am a creative Full Stack Developer and Designer based in India, deeply passionate and dedicated to my work.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
