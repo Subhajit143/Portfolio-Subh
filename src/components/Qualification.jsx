@@ -79,7 +79,7 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Art Director</h3>
+                <h3 className="qualification__title">Node js Developer</h3>
                 <span className="qualification__subtitle">
                   Netaji Subhas Engineering College
                 </span>
@@ -124,7 +124,7 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">UX Expert</h3>
+                <h3 className="qualification__title">UX UI</h3>
                 <span className="qualification__subtitle">
                   Netaji Subhas Engineering College
                 </span>
@@ -192,7 +192,7 @@ const Qualification = () => {
                             </span>
                         </div >  */}
               <div>
-                <h3 className="qualification__title">Product Designer</h3>
+                <h3 className="qualification__title">Backend Developer</h3>
                 <span className="qualification__subtitle">AILABS</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
