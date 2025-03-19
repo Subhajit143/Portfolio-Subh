@@ -36,6 +36,7 @@
 
 .work__img{
     width: 295px;
+    height: 180px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
 }
